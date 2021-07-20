@@ -1,4 +1,4 @@
-<h1>Project Catwalk</h1>
+<h1>Front End Capstone - Project Catwalk</h1>
 
 A Redux and React-powered client-facing retail web-portal. Built with Material UI and Express. Deployed on AWS EC2.
 
