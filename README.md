@@ -1,17 +1,25 @@
-<h2>Catwalk</h2>
+<h1>Project Catwalk</h1>
 
-A Redux and React-powered client-facing retail web-portal.
+A Redux and React-powered client-facing retail web-portal. Built with Material UI and Express. Deployed on AWS EC2.
 
-Using detailed business requirements, our team of three built our first fully functioning web application in less than two weeks.
-We planned, built the architecture from scratch, deployed using AWS's EC2, and optimized our web app with minimal bootcamp support and guidance.
+Adhering detailed business requirements, our team of three built our first fully functioning web application in less than two weeks.
+We planned, built the architecture from scratch, deployed, and optimized our web app with minimal support and guidance.
 
-<h3>Select Features:</h3>
-<li>See complete image gallery of current product, with zoom, select styles, and add to cart. Lead contributor: <a href="https://github.com/psohn12">Patrick Sohn</a>.</li>
+<h2>Select Features</h2>
+<h3>Product Overview - Lead Contributor: <a href="https://github.com/psohn12">Patrick Sohn</a></h3>
+<li>Complete image gallery of current product</li>
+<li>Magnifying zoom</li>
+<li>Select styles and add to cart.</li> 
 <p align="center"><img class="center" src="https://thumbs.gfycat.com/RipeLividEmperorpenguin-max-1mb.gif" width="400px"></p>
-<li>Explore related products, with modal comparing features between each related product and the current product. Lead contributor: <a href="https://github.com/aywgit">Angela Wu</a>.</li>
-<li>Create customized outfit list, add and delete, and persist user preferences across sessions. Lead contributor: <a href="https://github.com/aywgit">Angela Wu</a>.</li>
+<h3>Related Products and Outfit Cards - Lead Contributor: <a href="https://github.com/aywgit">Angela Wu</a></h3>
+<li>Explore related products</li>
+<li>Compare with current product using pop-up modal</li>
+<li>Create customized outfit list, adding and deleting as you go</li>
+<li>Outfit card persists user preferences across sessions</li>
 <p align="center"><img src="https://thumbs.gfycat.com/EasyUntriedGonolek-max-1mb.gif" width="400px"></p>
-<li>Enjoy a fully-featured ratings and reviews module, with ability to upload and view other users' images. Lead contributor: <a href="https://github.com/smilinjake">Jacob Ward</a>.</li>
+<h3>Ratings and Reviews - Lead Contributor: <a href="https://github.com/smilinjake">Jacob Ward</a></h3>
+<li>Enjoy a fully-featured ratings and reviews module</li>
+<li>Upload and view other users' images</li>
 <p align="center"><img src="https://thumbs.gfycat.com/FamiliarVibrantBluefish-max-1mb.gif" width="400px"></p>
 <h3>Final performance score from Google Page Speeds: 87</h3>
 <li>First Contentful Pain: 0.8 s </li>
